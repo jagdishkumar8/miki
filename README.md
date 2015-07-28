@@ -1,14 +1,19 @@
 # miki
 The project can be cloned by
+
   git clone https://github.com/jagdishkumar8/miki.git
+  
   
 Or can be downloaded by clicking on the download zip button on the right hand side.
 
 The project can be built by
   cd miki/travel
+  
   For test
+  
     mvn -e clean test
   For build
+  
     mvn -e clean install
 
 Assumptions
