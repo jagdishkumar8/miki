@@ -1,0 +1,61 @@
+2015-07-28 09:28:35,972 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uk.miki:travel:0.0.1-SNAPSHOT @ /data/miki/travel/pom.xml.
+2015-07-28 09:28:36,913 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel/src/main/java
+2015-07-28 09:28:36,916 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel/src/test/java
+2015-07-28 09:28:36,916 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel/src/test/resources
+2015-07-28 09:28:37,107 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-07-28 09:28:39,321 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:28:39,327 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /data/miki/travel/src/main/resources
+2015-07-28 09:28:39,332 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:28:39,343 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:29:24,602 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/jagdish/Downloads/miki/travel/pom.xml
+2015-07-28 09:29:25,448 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uk.miki:travel:0.0.1-SNAPSHOT @ /home/jagdish/Downloads/miki/travel/pom.xml.
+2015-07-28 09:29:25,916 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel/src/main/java
+2015-07-28 09:29:25,919 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel/src/test/java
+2015-07-28 09:29:25,956 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-07-28 09:29:26,671 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:26,672 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:29:26,675 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:26,675 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/test/resources
+2015-07-28 09:29:53,498 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uk.miki:travel:0.0.1-SNAPSHOT @ /home/jagdish/Downloads/miki/travel/pom.xml.
+2015-07-28 09:29:53,753 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:53,753 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:29:53,757 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:53,762 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:29:55,499 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:55,500 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:29:55,502 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:55,503 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:29:58,690 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:58,691 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:29:58,695 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:29:58,695 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-07-28 09:30:13,055 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:30:13,055 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:30:13,061 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:30:13,064 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:30:20,533 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-07-28 09:30:21,165 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uk.miki:travel:0.0.1-SNAPSHOT @ /home/jagdish/Downloads/miki/travel/pom.xml.
+2015-07-28 09:30:21,344 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel/src/main/java
+2015-07-28 09:30:21,345 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /travel/src/test/java
+2015-07-28 09:30:21,346 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /travel/src/test/resources
+2015-07-28 09:30:21,413 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-07-28 09:30:21,919 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:30:21,919 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:30:21,922 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:30:21,924 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:30:27,776 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/jagdish/Downloads/miki/travel
+2015-07-28 09:30:27,777 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-07-28 09:30:32,904 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:30:32,905 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:30:32,908 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:30:32,912 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:31:15,810 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/jagdish/Downloads/miki/travel
+2015-07-28 09:31:15,812 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-07-28 09:31:24,412 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:31:24,412 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:31:24,415 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:31:24,417 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-28 09:35:22,870 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:35:22,871 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jagdish/Downloads/miki/travel/src/main/resources
+2015-07-28 09:35:22,875 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-07-28 09:35:22,876 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
